@@ -60,7 +60,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'instagram',
-      url: 'https://instagram.com/animeshbasak',
+      url: 'https://instagram.com/faceoncanvas',
     },
     {
       id: nanoid(),
@@ -75,7 +75,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'instagram',
-      url: 'https://instagram.com/faceoncanvas',
+      url: 'https://instagram.com/animeshbasak',
+    },
+    {
+      id: nanoid(),
+      name: 'facebook',
+      url: 'https://facebook.com/animeshsbasak',
     },
   ],
 };
