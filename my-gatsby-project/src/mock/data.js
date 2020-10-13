@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a System Engineer at Infosys Ltd. living in Hyderabad, India',
   paragraphTwo: 'I have knowledge in UI/UX Designing, UI Development and Testing',
   paragraphThree: 'In my leisure time I write and capture Poetry over Canvas ',
-  resume: 'https://drive.google.com/file/d/134GdAlofCILf48_DPPKssWHZNrvGIzlD/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1hNgM42jYrUObx9tcHIpSxg2sxfamQDuq/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
